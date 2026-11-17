@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rgscraft.aternos.me",
+    "ip": "k3ake3.aternos.me",
     "port": 14504,
-    "version": "1.21.11",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
